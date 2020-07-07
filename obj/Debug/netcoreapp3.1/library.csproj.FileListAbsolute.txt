@@ -1,0 +1,4 @@
+/Users/austinhugus/Documents/codeworks/library/obj/Debug/netcoreapp3.1/library.csprojAssemblyReference.cache
+/Users/austinhugus/Documents/codeworks/library/obj/Debug/netcoreapp3.1/library.AssemblyInfoInputs.cache
+/Users/austinhugus/Documents/codeworks/library/obj/Debug/netcoreapp3.1/library.AssemblyInfo.cs
+/Users/austinhugus/Documents/codeworks/library/obj/Debug/netcoreapp3.1/library.csproj.CoreCompileInputs.cache
