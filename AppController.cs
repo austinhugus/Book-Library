@@ -8,7 +8,6 @@ namespace concole_Library {
         public bool Running { get; private set; }
         public void Run () {
             Console.Clear ();
-            s
             Library = new Library ("Harry Potter", "JK Rowling");
             Console.WriteLine ();
         }
